@@ -1,4 +1,0 @@
-/* main.cpp */
-/* Description
-* Programmed by J. H. Kim
-* Last updated : */
