@@ -1,0 +1,28 @@
+﻿  main.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\T_BST.h(49,11): warning C4566: 유니버설 문자 이름 '\u20A9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\main.cpp(14,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\main.cpp(20,15): warning C4101: 'pRoot' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\T_BST.h(50,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\T_BST.h(41): message : 클래스 템플릿 멤버 함수 'T_BSTN<int> *T_BST<int>::_insertInOrder(T_BSTN<int> **,T_BSTN<int> *,const E)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              E=int
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\T_BST.h(86): message : 컴파일되는 함수 템플릿 인스턴스화 'T_BSTN<int> *T_BST<int>::_insertInOrder(T_BSTN<int> **,T_BSTN<int> *,const E)'에 대한 참조를 확인하세요.
+          with
+          [
+              E=int
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\T_BST.h(85): message : 클래스 템플릿 멤버 함수 'void T_BST<int>::insertInOrder(const E)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              E=int
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\main.cpp(26): message : 컴파일되는 함수 템플릿 인스턴스화 'void T_BST<int>::insertInOrder(const E)'에 대한 참조를 확인하세요.
+          with
+          [
+              E=int
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\main.cpp(21): message : 컴파일되는 클래스 템플릿 인스턴스화 'T_BST<int>'에 대한 참조를 확인하세요.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3B_21812158_김주환\Exam3B_21812158_김주환\T_BST.h(82): warning C4715: 'T_BST<int>::_insertInOrder': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Exam3B_21812158_김주환.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3B_21812158_김주환\Debug\Exam3B_21812158_김주환.exe

@@ -1,0 +1,36 @@
+Elements in studentArray after initialization :
+Student [ st_id: 21811000, name: Kim, G-M  , date_of_birth: (1990.10. 5), arrival: ( 3: 0:30), gpa:  3.57] 
+Student [ st_id: 21611075, name: Yoon, S-M , date_of_birth: (1990. 4. 5), arrival: ( 7:30: 0), gpa:  4.37] 
+Student [ st_id: 21411015, name: Hwang, S-S, date_of_birth: (1989. 1.10), arrival: ( 2: 0:50), gpa:  2.72] 
+Student [ st_id: 21611054, name: Lee, K-M  , date_of_birth: (1991. 5.15), arrival: ( 5:30: 0), gpa:  3.35] 
+Student [ st_id: 21311340, name: Hong, G-M , date_of_birth: (1990. 2. 5), arrival: ( 1:10: 0), gpa:  3.89] 
+Student [ st_id: 21811001, name: Kim, M-J  , date_of_birth: (1992.11. 7), arrival: ( 4: 1:25), gpa:  3.50] 
+Student [ st_id: 21611076, name: Yoon, S-H , date_of_birth: (1993. 5. 1), arrival: ( 8:35:20), gpa:  4.40] 
+Student [ st_id: 21411016, name: Hwang, S-H, date_of_birth: (1988. 2.13), arrival: ( 6: 1:55), gpa:  2.08] 
+Student [ st_id: 21611055, name: Lee, K-S  , date_of_birth: (1996. 6.14), arrival: ( 3:26:32), gpa:  3.59] 
+Student [ st_id: 21311341, name: Hong, M-E , date_of_birth: (1997. 3. 6), arrival: ( 0:10:10), gpa:  3.97] 
+
+Elements in studentArray after selection sorting by increasing order of arrival time :
+Student [ st_id: 21311341, name: Hong, M-E , date_of_birth: (1997. 3. 6), arrival: ( 0:10:10), gpa:  3.97] 
+Student [ st_id: 21311340, name: Hong, G-M , date_of_birth: (1990. 2. 5), arrival: ( 1:10: 0), gpa:  3.89] 
+Student [ st_id: 21411015, name: Hwang, S-S, date_of_birth: (1989. 1.10), arrival: ( 2: 0:50), gpa:  2.72] 
+Student [ st_id: 21811000, name: Kim, G-M  , date_of_birth: (1990.10. 5), arrival: ( 3: 0:30), gpa:  3.57] 
+Student [ st_id: 21611055, name: Lee, K-S  , date_of_birth: (1996. 6.14), arrival: ( 3:26:32), gpa:  3.59] 
+Student [ st_id: 21811001, name: Kim, M-J  , date_of_birth: (1992.11. 7), arrival: ( 4: 1:25), gpa:  3.50] 
+Student [ st_id: 21611054, name: Lee, K-M  , date_of_birth: (1991. 5.15), arrival: ( 5:30: 0), gpa:  3.35] 
+Student [ st_id: 21411016, name: Hwang, S-H, date_of_birth: (1988. 2.13), arrival: ( 6: 1:55), gpa:  2.08] 
+Student [ st_id: 21611075, name: Yoon, S-M , date_of_birth: (1990. 4. 5), arrival: ( 7:30: 0), gpa:  4.37] 
+Student [ st_id: 21611076, name: Yoon, S-H , date_of_birth: (1993. 5. 1), arrival: ( 8:35:20), gpa:  4.40] 
+
+Elements in studentArray after quick sorting by decreasing order of arrival time :
+Student [ st_id: 21611076, name: Yoon, S-H , date_of_birth: (1993. 5. 1), arrival: ( 8:35:20), gpa:  4.40] 
+Student [ st_id: 21611075, name: Yoon, S-M , date_of_birth: (1990. 4. 5), arrival: ( 7:30: 0), gpa:  4.37] 
+Student [ st_id: 21411016, name: Hwang, S-H, date_of_birth: (1988. 2.13), arrival: ( 6: 1:55), gpa:  2.08] 
+Student [ st_id: 21611054, name: Lee, K-M  , date_of_birth: (1991. 5.15), arrival: ( 5:30: 0), gpa:  3.35] 
+Student [ st_id: 21811001, name: Kim, M-J  , date_of_birth: (1992.11. 7), arrival: ( 4: 1:25), gpa:  3.50] 
+Student [ st_id: 21611055, name: Lee, K-S  , date_of_birth: (1996. 6.14), arrival: ( 3:26:32), gpa:  3.59] 
+Student [ st_id: 21811000, name: Kim, G-M  , date_of_birth: (1990.10. 5), arrival: ( 3: 0:30), gpa:  3.57] 
+Student [ st_id: 21411015, name: Hwang, S-S, date_of_birth: (1989. 1.10), arrival: ( 2: 0:50), gpa:  2.72] 
+Student [ st_id: 21311340, name: Hong, G-M , date_of_birth: (1990. 2. 5), arrival: ( 1:10: 0), gpa:  3.89] 
+Student [ st_id: 21311341, name: Hong, M-E , date_of_birth: (1997. 3. 6), arrival: ( 0:10:10), gpa:  3.97] 
+

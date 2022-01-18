@@ -1,0 +1,403 @@
+
+=================
+Testing SkipList<int, Planet> ...
+ Inserting myVocas tomyVoca SkipList ...
+Inserting [0]: mean(n):
+ - thesaurus(average, norm, median, middle, midpoint, (ant) extremity, )
+ - example usage(the mean error the golden mean the arithmetical mean the geometric mean )
+insert a node (mean) at level 0 
+Print Skip List Inside :current height(1)
+level 1 -oo -------------? + oo
+level 0 -oo -        mean? + oo
+
+
+Inserting [1]: mean(adj):
+ - thesaurus(nasty, poor, middle, miserly, paltry, )
+ - example usage(a man of mean intelligence a mean appearance )
+insert a node (mean) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- -------------? + oo
+level 1 -oo -        mean -------------? + oo
+level 0 -oo -        mean -        mean? + oo
+
+
+Inserting [2]: mean(v):
+ - thesaurus(require, denote, intend, )
+ - example usage(What do you mean by "perfect" ? )
+insert a node (mean) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- -------------? + oo
+level 1 -oo -        mean -        mean -------------? + oo
+level 0 -oo -        mean -        mean -        mean? + oo
+
+
+Inserting [3]: offer(n):
+ - thesaurus(proposal, )
+ - example usage(He accepted out offer to write the business plan. )
+insert a node (offer) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- -------------? + oo
+level 1 -oo -        mean -        mean ------------- -------------? + oo
+level 0 -oo -        mean -        mean -        mean -       offer? + oo
+
+
+Inserting [4]: offer(v):
+ - thesaurus(to propose, )
+ - example usage(She must offer her banker new statistics in order to satisfy the bank's requirement for the loan. )
+insert a node (offer) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -        mean -        mean ------------- -       offer -------------? + oo
+level 0 -oo -        mean -        mean -        mean -       offer -       offer? + oo
+
+
+Inserting [5]: compromise(n):
+ - thesaurus(give-and-take, bargaining, accommodation, )
+ - example usage(The couple made a compromise and ordered food to take out. )
+insert a node (compromise) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo ------------- -        mean -        mean ------------- -       offer -------------? + oo
+level 0 -oo -  compromise -        mean -        mean -        mean -       offer -       offer? + oo
+
+
+Inserting [6]: compromise(v):
+ - thesaurus(settle, conciliate, find a middle ground, )
+ - example usage(He does not like sweet dishes so I compromised by adding just a small amount of sugar. )
+insert a node (compromise) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo ------------- ------------- -        mean -        mean ------------- -       offer -------------? + oo
+level 0 -oo -  compromise -  compromise -        mean -        mean -        mean -       offer -       offer? + oo
+
+
+Inserting [7]: aptitude(n):
+ - thesaurus(gift, talent, )
+ - example usage(My grandson and granddaughter have a special aptitude that makes me happy in its own way. )
+insert a node (aptitude) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude ------------- ------------- -        mean -        mean ------------- -       offer -------------? + oo
+level 0 -oo -    aptitude -  compromise -  compromise -        mean -        mean -        mean -       offer -       offer? + oo
+
+
+Inserting [8]: certificate(n):
+ - thesaurus(license, authorization, )
+ - example usage(If you use this certificate for escape the danger just for you, you will regret for use. )
+insert a node (certificate) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate ------------- ------------- -        mean -        mean ------------- -       offer -------------? + oo
+level 0 -oo -    aptitude - certificate -  compromise -  compromise -        mean -        mean -        mean -       offer -       offer? + oo
+
+
+Inserting [9]: certificate(v):
+ - thesaurus(autheticate, authorize, )
+ - example usage(The teacher who teaches safe driving wants to certificate the ability about his student's safe driving. )
+insert a node (certificate) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- -        mean -        mean ------------- -       offer -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -        mean -        mean -        mean -       offer -       offer? + oo
+
+
+Inserting [10]: eligible(adj):
+ - thesaurus(fit, acceptable, qualified, suitable, )
+ - example usage(That eligible guy who wants to be a husband with you send a bunch of flowers with his hand letter. )
+insert a node (eligible) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -        mean -        mean ------------- -       offer -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -        mean -        mean -        mean -       offer -       offer? + oo
+
+
+Inserting [11]: gratitude(n):
+ - thesaurus(appreciation, thankfulness, )
+ - example usage(If your gratitude about last work is real, you can not do it like this. )
+insert a node (gratitude) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -        mean -        mean ------------- -       offer -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -        mean -        mean -        mean -       offer -       offer? + oo
+
+
+Inserting [12]: hesitant(adj):
+ - thesaurus(uncertain, doubtful, undecided, )
+ - example usage(That hesitant guy who can not decide everything well go to the counseling center and wants to solve that problem about it. )
+insert a node (hesitant) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant -        mean -        mean ------------- -       offer -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -        mean -        mean -        mean -       offer -       offer? + oo
+
+
+Inserting [13]: proficient(adj):
+ - thesaurus(adept, able, skilled, )
+ - example usage(that guy who is talking a lot is proficient for his job that is dealing with customers. )
+insert a node (proficient) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant -        mean -        mean ------------- -       offer ------------- -  proficient? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -        mean -        mean -        mean -       offer -       offer -  proficient? + oo
+
+
+Inserting [14]: recruit(n):
+ - thesaurus(draftee, newcomer, rookie, )
+ - example usage(That recruit who is drafted yesterday looks like nervous and about to make a lot of accidents. )
+insert a node (recruit) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant -        mean -        mean ------------- -       offer ------------- -  proficient -     recruit? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -        mean -        mean -        mean -       offer -       offer -  proficient -     recruit? + oo
+
+
+Inserting [15]: recruit(v):
+ - thesaurus(draft, conscript, employ, )
+ - example usage(ministry of national defense of south Korea recruit youth guys who is healthy and responsible. )
+insert a node (recruit) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant -        mean -        mean ------------- -       offer ------------- -  proficient -     recruit -     recruit? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -        mean -        mean -        mean -       offer -       offer -  proficient -     recruit -     recruit? + oo
+
+
+Inserting [16]: resume(n):
+ - thesaurus(summary, schema, )
+ - example usage(Your resume about job you had before is clear what are you want to do. )
+insert a node (resume) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant -        mean -        mean ------------- -       offer ------------- -  proficient -     recruit -     recruit -      resume? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -        mean -        mean -        mean -       offer -       offer -  proficient -     recruit -     recruit -      resume? + oo
+
+
+Inserting [17]: resume(v):
+ - thesaurus(continue, restart, )
+ - example usage(You played game last 10 hours, so you must resume after you take a nap. )
+insert a node (resume) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant -        mean -        mean ------------- -       offer ------------- -  proficient -     recruit -     recruit -      resume -      resume? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -        mean -        mean -        mean -       offer -       offer -  proficient -     recruit -     recruit -      resume -      resume? + oo
+
+
+Inserting [18]: sophisticate(n):
+ - thesaurus(trend setter, socialite, )
+ - example usage(That sophisticate who knows the way of the world is deal badly with a person. )
+insert a node (sophisticate) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant -        mean -        mean ------------- -       offer ------------- -  proficient -     recruit -     recruit -      resume -      resume -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -        mean -        mean -        mean -       offer -       offer -  proficient -     recruit -     recruit -      resume -      resume -sophisticate? + oo
+
+
+Inserting [19]: sophisticate(v):
+ - thesaurus(improve, adulterate, corrupt, )
+ - example usage(That guy who looks pure enough is sophisticate on his every talking that is not real. )
+insert a node (sophisticate) at level 0 
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant -        mean -        mean ------------- -       offer ------------- -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -        mean -        mean -        mean -       offer -       offer -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+
+********************* 
+Search planetSkipList and delete the planet(mean(n):
+ - thesaurus(average, norm, median, middle, midpoint, (ant) extremity, )
+ - example usage(the mean error the golden mean the arithmetical mean the geometric mean )) : 0014D630
+deleted skip list node (Key: mean)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant -        mean ------------- -       offer ------------- -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -        mean -        mean -       offer -       offer -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(mean(adj):
+ - thesaurus(nasty, poor, middle, miserly, paltry, )
+ - example usage(a man of mean intelligence a mean appearance )) : 0014D5F8
+deleted skip list node (Key: mean)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant ------------- -       offer ------------- -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -        mean -       offer -       offer -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(mean(v):
+ - thesaurus(require, denote, intend, )
+ - example usage(What do you mean by "perfect" ? )) : 0014D5C0
+deleted skip list node (Key: mean)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant -       offer ------------- -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -       offer -       offer -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(offer(n):
+ - thesaurus(proposal, )
+ - example usage(He accepted out offer to write the business plan. )) : 0014D6A0
+deleted skip list node (Key: offer)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant ------------- -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -       offer -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(offer(v):
+ - thesaurus(to propose, )
+ - example usage(She must offer her banker new statistics in order to satisfy the bank's requirement for the loan. )) : 0014D668
+deleted skip list node (Key: offer)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- ------------- -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -  compromise -    eligible -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(compromise(n):
+ - thesaurus(give-and-take, bargaining, accommodation, )
+ - example usage(The couple made a compromise and ordered food to take out. )) : 0014D710
+deleted skip list node (Key: compromise)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- ------------- -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -  compromise -    eligible -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(compromise(v):
+ - thesaurus(settle, conciliate, find a middle ground, )
+ - example usage(He does not like sweet dishes so I compromised by adding just a small amount of sugar. )) : 0014D6D8
+deleted skip list node (Key: compromise)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    aptitude - certificate - certificate ------------- -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -    aptitude - certificate - certificate -    eligible -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(aptitude(n):
+ - thesaurus(gift, talent, )
+ - example usage(My grandson and granddaughter have a special aptitude that makes me happy in its own way. )) : 0014D748
+deleted skip list node (Key: aptitude)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo - certificate - certificate ------------- -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo - certificate - certificate -    eligible -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(certificate(n):
+ - thesaurus(license, authorization, )
+ - example usage(If you use this certificate for escape the danger just for you, you will regret for use. )) : 0014D7B8
+deleted skip list node (Key: certificate)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo - certificate ------------- -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo - certificate -    eligible -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(certificate(v):
+ - thesaurus(autheticate, authorize, )
+ - example usage(The teacher who teaches safe driving wants to certificate the ability about his student's safe driving. )) : 0014D780
+deleted skip list node (Key: certificate)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo ------------- -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -    eligible -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(eligible(adj):
+ - thesaurus(fit, acceptable, qualified, suitable, )
+ - example usage(That eligible guy who wants to be a husband with you send a bunch of flowers with his hand letter. )) : 0014D7F0
+deleted skip list node (Key: eligible)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -   gratitude -    hesitant -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(gratitude(n):
+ - thesaurus(appreciation, thankfulness, )
+ - example usage(If your gratitude about last work is real, you can not do it like this. )) : 0014D828
+deleted skip list node (Key: gratitude)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -    hesitant -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -    hesitant -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(hesitant(adj):
+ - thesaurus(uncertain, doubtful, undecided, )
+ - example usage(That hesitant guy who can not decide everything well go to the counseling center and wants to solve that problem about it. )) : 0014D860
+deleted skip list node (Key: hesitant)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -  proficient -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -  proficient -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(proficient(adj):
+ - thesaurus(adept, able, skilled, )
+ - example usage(that guy who is talking a lot is proficient for his job that is dealing with customers. )) : 0014D898
+deleted skip list node (Key: proficient)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -     recruit -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -     recruit -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(recruit(n):
+ - thesaurus(draftee, newcomer, rookie, )
+ - example usage(That recruit who is drafted yesterday looks like nervous and about to make a lot of accidents. )) : 0014D908
+deleted skip list node (Key: recruit)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- ------------- -------------? + oo
+level 1 -oo -     recruit -      resume -      resume ------------- -------------? + oo
+level 0 -oo -     recruit -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(recruit(v):
+ - thesaurus(draft, conscript, employ, )
+ - example usage(ministry of national defense of south Korea recruit youth guys who is healthy and responsible. )) : 0014D8D0
+deleted skip list node (Key: recruit)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- ------------- -------------? + oo
+level 1 -oo -      resume -      resume ------------- -------------? + oo
+level 0 -oo -      resume -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(resume(n):
+ - thesaurus(summary, schema, )
+ - example usage(Your resume about job you had before is clear what are you want to do. )) : 0014D978
+deleted skip list node (Key: resume)
+Print Skip List Inside :current height(2)
+level 2 -oo ------------- ------------- -------------? + oo
+level 1 -oo -      resume ------------- -------------? + oo
+level 0 -oo -      resume -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(resume(v):
+ - thesaurus(continue, restart, )
+ - example usage(You played game last 10 hours, so you must resume after you take a nap. )) : 0014D940
+deleted skip list node (Key: resume)
+Current height is less than the new h_max(1) ==> need adjustment !!
+Print Skip List Inside :current height(1)
+level 1 -oo ------------- -------------? + oo
+level 0 -oo -sophisticate -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(sophisticate(n):
+ - thesaurus(trend setter, socialite, )
+ - example usage(That sophisticate who knows the way of the world is deal badly with a person. )) : 0014D9E8
+deleted skip list node (Key: sophisticate)
+Print Skip List Inside :current height(1)
+level 1 -oo -------------? + oo
+level 0 -oo -sophisticate? + oo
+
+
+Search planetSkipList and delete the planet(sophisticate(v):
+ - thesaurus(improve, adulterate, corrupt, )
+ - example usage(That guy who looks pure enough is sophisticate on his every talking that is not real. )) : 0014D9B0
+deleted skip list node (Key: sophisticate)
+Current height is less than the new h_max(0) ==> need adjustment !!
+Print Skip List Inside :current height(0)
+level 0 -oo? + oo
+
+

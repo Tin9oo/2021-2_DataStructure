@@ -1,0 +1,14 @@
+﻿  Date.cpp
+  MyString.cpp
+  Person.cpp
+  Student.cpp
+  StudentArray.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\5\21812158_김주환_Lab5\21812158_김주환_Lab5\StudentArray.cpp(28,11): warning C4566: 유니버설 문자 이름 '\u20A9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\5\21812158_김주환_Lab5\21812158_김주환_Lab5\StudentArray.cpp(33,12): warning C4101: 'mx' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\5\21812158_김주환_Lab5\21812158_김주환_Lab5\StudentArray.cpp(56,12): warning C4101: 'mx' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\5\21812158_김주환_Lab5\21812158_김주환_Lab5\StudentArray.cpp(79,12): warning C4101: 'mx' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\5\21812158_김주환_Lab5\21812158_김주환_Lab5\StudentArray.cpp(102,12): warning C4101: 'mx' :참조되지 않은 지역 변수입니다.
+  main.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\5\21812158_김주환_Lab5\21812158_김주환_Lab5\main.cpp(12,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다...
+  21812158_김주환_Lab5.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\5\21812158_김주환_Lab5\x64\Debug\21812158_김주환_Lab5.exe

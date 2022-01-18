@@ -1,0 +1,29 @@
+﻿  main.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3C_21812158_김주환\Exam3C_21812158_김주환\main.cpp(17,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3C_21812158_김주환\Exam3C_21812158_김주환\main.cpp(26,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3C_21812158_김주환\Exam3C_21812158_김주환\main.cpp(19,6): warning C4101: 'size' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3C_21812158_김주환\Exam3C_21812158_김주환\T_Array.h(30,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3C_21812158_김주환\Exam3C_21812158_김주환\T_Array.h(26): message : 클래스 템플릿 멤버 함수 'T_Array<E>::T_Array(int,std::string)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              E=int
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3C_21812158_김주환\Exam3C_21812158_김주환\CompleteBinaryTree.h(31): message : 컴파일되는 함수 템플릿 인스턴스화 'T_Array<E>::T_Array(int,std::string)'에 대한 참조를 확인하세요.
+          with
+          [
+              E=int
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3C_21812158_김주환\Exam3C_21812158_김주환\CompleteBinaryTree.h(31): message : 클래스 템플릿 멤버 함수 'CompleteBinaryTree<E>::CompleteBinaryTree(int,std::string)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              E=int
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3C_21812158_김주환\Exam3C_21812158_김주환\HeapPrioQ.h(22): message : 컴파일되는 함수 템플릿 인스턴스화 'CompleteBinaryTree<E>::CompleteBinaryTree(int,std::string)'에 대한 참조를 확인하세요.
+          with
+          [
+              E=int
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3C_21812158_김주환\Exam3C_21812158_김주환\HeapPrioQ.h(22): message : 클래스 템플릿 멤버 함수 'HeapPrioQueue<int>::HeapPrioQueue(int,std::string)'을(를) 컴파일하는 중입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3C_21812158_김주환\Exam3C_21812158_김주환\main.cpp(28): message : 컴파일되는 함수 템플릿 인스턴스화 'HeapPrioQueue<int>::HeapPrioQueue(int,std::string)'에 대한 참조를 확인하세요.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3C_21812158_김주환\Exam3C_21812158_김주환\main.cpp(28): message : 컴파일되는 클래스 템플릿 인스턴스화 'HeapPrioQueue<int>'에 대한 참조를 확인하세요.
+  Exam3C_21812158_김주환.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3C_21812158_김주환\Debug\Exam3C_21812158_김주환.exe

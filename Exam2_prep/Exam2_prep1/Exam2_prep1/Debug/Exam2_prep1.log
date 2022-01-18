@@ -1,0 +1,3 @@
+﻿  Time.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep1\Exam2_prep1\Time.cpp(61,17): warning C4101: 'index_max' :참조되지 않은 지역 변수입니다.
+  Exam2_prep1.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep1\Debug\Exam2_prep1.exe

@@ -1,0 +1,592 @@
+Inserting My Vocabularies to myVocaDict . . . 
+Total 130 words in my Voca_Dictionary ..
+[ Key Word :        diagnose, Hash Code :  145280512, Hash Value :     0]
+[ Key Word :         mediate, Hash Code :  276173569, Hash Value :     1]
+[ Key Word :        frequent, Hash Code : 1363944833, Hash Value :     1]
+[ Key Word :        frequent, Hash Code : 1363944833, Hash Value :     1]
+[ Key Word :         procure, Hash Code : 3944964801, Hash Value :     1]
+[ Key Word :      consistent, Hash Code : 2574808257, Hash Value :     1]
+[ Key Word :     substantial, Hash Code : 3405166145, Hash Value :     1]
+[ Key Word :         resolve, Hash Code : 1365851970, Hash Value :     2]
+[ Key Word :         resolve, Hash Code : 1365851970, Hash Value :     2]
+[ Key Word :       exquisite, Hash Code :  818650050, Hash Value :     2]
+[ Key Word :      relinquish, Hash Code :  593156931, Hash Value :     3]
+[ Key Word :     description, Hash Code : 1524156547, Hash Value :     3]
+[ Key Word :          resume, Hash Code : 3935003141, Hash Value :     5]
+[ Key Word :          resume, Hash Code : 3935003141, Hash Value :     5]
+[ Key Word :          accrue, Hash Code : 3361953541, Hash Value :     5]
+[ Key Word :      proficient, Hash Code : 1484036038, Hash Value :     6]
+[ Key Word :      compromise, Hash Code : 3946120521, Hash Value :     9]
+[ Key Word :      compromise, Hash Code : 3946120521, Hash Value :     9]
+[ Key Word :      compromise, Hash Code : 3946120521, Hash Value :     9]
+[ Key Word :      compromise, Hash Code : 3946120521, Hash Value :     9]
+[ Key Word :        aptitude, Hash Code : 4006339593, Hash Value :     9]
+[ Key Word :       improvise, Hash Code : 3945602889, Hash Value :     9]
+[ Key Word :    sophisticate, Hash Code : 3926752842, Hash Value :    10]
+[ Key Word :    sophisticate, Hash Code : 3926752842, Hash Value :    10]
+[ Key Word :      initiative, Hash Code : 3629728906, Hash Value :    10]
+[ Key Word :        succinct, Hash Code :  208029834, Hash Value :    10]
+[ Key Word :       liquidate, Hash Code :  818152010, Hash Value :    10]
+[ Key Word :       fascinate, Hash Code : 2361981962, Hash Value :    10]
+[ Key Word :          entail, Hash Code : 3508244876, Hash Value :    12]
+[ Key Word :          retail, Hash Code : 3935015308, Hash Value :    12]
+[ Key Word :          retail, Hash Code : 3935015308, Hash Value :    12]
+[ Key Word :       commodity, Hash Code :  556013965, Hash Value :    13]
+[ Key Word :            mean, Hash Code :    3678350, Hash Value :    14]
+[ Key Word :            mean, Hash Code :    3678350, Hash Value :    14]
+[ Key Word :            mean, Hash Code :    3678350, Hash Value :    14]
+[ Key Word :       gratitude, Hash Code :  785140622, Hash Value :    14]
+[ Key Word :        hesitant, Hash Code :  751539598, Hash Value :    14]
+[ Key Word :        regulate, Hash Code :  361207439, Hash Value :    15]
+[ Key Word :       prescribe, Hash Code :  745219151, Hash Value :    15]
+[ Key Word :      subjective, Hash Code : 1350208336, Hash Value :    16]
+[ Key Word :      correspond, Hash Code : 1366727889, Hash Value :    17]
+[ Key Word :           offer, Hash Code :  119842066, Hash Value :    18]
+[ Key Word :           offer, Hash Code :  119842066, Hash Value :    18]
+[ Key Word :      substitute, Hash Code : 2933570322, Hash Value :    18]
+[ Key Word :      substitute, Hash Code : 2933570322, Hash Value :    18]
+[ Key Word :         amenity, Hash Code :  545829650, Hash Value :    18]
+[ Key Word :          meager, Hash Code : 3766626578, Hash Value :    18]
+[ Key Word :          assess, Hash Code : 3379241683, Hash Value :    19]
+[ Key Word :       nutrution, Hash Code : 3951830035, Hash Value :    19]
+[ Key Word :          deduct, Hash Code : 3464749268, Hash Value :    20]
+[ Key Word :           audit, Hash Code :  105651604, Hash Value :    20]
+[ Key Word :           audit, Hash Code :  105651604, Hash Value :    20]
+[ Key Word :          commit, Hash Code : 3441967508, Hash Value :    20]
+[ Key Word :      administer, Hash Code :  584574101, Hash Value :    21]
+[ Key Word :         rectify, Hash Code : 1349235030, Hash Value :    22]
+[ Key Word :     disseminate, Hash Code :  577120663, Hash Value :    23]
+[ Key Word :     consolidate, Hash Code : 2690507929, Hash Value :    25]
+[ Key Word :       mandatory, Hash Code : 1313618653, Hash Value :    29]
+[ Key Word :       elaborate, Hash Code :  187366238, Hash Value :    30]
+[ Key Word :       elaborate, Hash Code :  187366238, Hash Value :    30]
+[ Key Word :         adverse, Hash Code :  261379806, Hash Value :    30]
+[ Key Word :         diverse, Hash Code : 3650377438, Hash Value :    30]
+[ Key Word :         endorse, Hash Code :  578377439, Hash Value :    31]
+[ Key Word :         expanse, Hash Code :  926041823, Hash Value :    31]
+[ Key Word :         fatigue, Hash Code : 1232481055, Hash Value :    31]
+[ Key Word :     certificate, Hash Code :  341584032, Hash Value :    32]
+[ Key Word :     certificate, Hash Code :  341584032, Hash Value :    32]
+[ Key Word :       stipulate, Hash Code :  663226784, Hash Value :    32]
+[ Key Word :         invoice, Hash Code :  597242080, Hash Value :    32]
+[ Key Word :         invoice, Hash Code :  597242080, Hash Value :    32]
+[ Key Word :      collborate, Hash Code : 3409405280, Hash Value :    32]
+[ Key Word :         indulge, Hash Code :  578567520, Hash Value :    32]
+[ Key Word :         premise, Hash Code : 3934794465, Hash Value :    33]
+[ Key Word :         premise, Hash Code : 3934794465, Hash Value :    33]
+[ Key Word :        dominate, Hash Code : 2697500193, Hash Value :    33]
+[ Key Word :         presume, Hash Code : 3935003169, Hash Value :    33]
+[ Key Word :         revenue, Hash Code : 1368672034, Hash Value :    34]
+[ Key Word :       fluctuate, Hash Code :  226262115, Hash Value :    35]
+[ Key Word :           yield, Hash Code :  130425316, Hash Value :    36]
+[ Key Word :           yield, Hash Code :  130425316, Hash Value :    36]
+[ Key Word :          endure, Hash Code : 3507741349, Hash Value :    37]
+[ Key Word :           abide, Hash Code :  105033957, Hash Value :    37]
+[ Key Word :           weave, Hash Code :  128193317, Hash Value :    37]
+[ Key Word :           weave, Hash Code :  128193317, Hash Value :    37]
+[ Key Word :          secure, Hash Code : 3968033445, Hash Value :    37]
+[ Key Word :          secure, Hash Code : 3968033445, Hash Value :    37]
+[ Key Word :           quote, Hash Code :  122440421, Hash Value :    37]
+[ Key Word :           abate, Hash Code :  105026277, Hash Value :    37]
+[ Key Word :      subsidiary, Hash Code : 2558847718, Hash Value :    38]
+[ Key Word :      subsidiary, Hash Code : 2558847718, Hash Value :    38]
+[ Key Word :       reconcile, Hash Code : 2769528614, Hash Value :    38]
+[ Key Word :         broaden, Hash Code : 1797397799, Hash Value :    39]
+[ Key Word :        eligible, Hash Code : 3634764072, Hash Value :    40]
+[ Key Word :    apprehensive, Hash Code :   57256040, Hash Value :    40]
+[ Key Word :      comprehend, Hash Code : 3935466664, Hash Value :    40]
+[ Key Word :      compatible, Hash Code : 3380799593, Hash Value :    41]
+[ Key Word :     deteriorate, Hash Code : 1523034666, Hash Value :    42]
+[ Key Word :    prerequisite, Hash Code : 1788889130, Hash Value :    42]
+[ Key Word :        scrutiny, Hash Code : 2878060010, Hash Value :    42]
+[ Key Word :        punctual, Hash Code :  577496106, Hash Value :    42]
+[ Key Word :     investigate, Hash Code : 2960608298, Hash Value :    42]
+[ Key Word :         refrain, Hash Code : 1352307115, Hash Value :    43]
+[ Key Word :         refrain, Hash Code : 1352307115, Hash Value :    43]
+[ Key Word :      attainment, Hash Code :  421837293, Hash Value :    45]
+[ Key Word :       bilateral, Hash Code : 3379870191, Hash Value :    47]
+[ Key Word :       affiliate, Hash Code : 1492547375, Hash Value :    47]
+[ Key Word :       affiliate, Hash Code : 1492547375, Hash Value :    47]
+[ Key Word :         plummet, Hash Code : 3750248752, Hash Value :    48]
+[ Key Word :         plummet, Hash Code : 3750248752, Hash Value :    48]
+[ Key Word :         recruit, Hash Code : 1349181873, Hash Value :    49]
+[ Key Word :         recruit, Hash Code : 1349181873, Hash Value :    49]
+[ Key Word :        prohibit, Hash Code : 1689655601, Hash Value :    49]
+[ Key Word :          assort, Hash Code : 3379251892, Hash Value :    52]
+[ Key Word :       itinerary, Hash Code :  579534708, Hash Value :    52]
+[ Key Word :        obligate, Hash Code : 1589974646, Hash Value :    54]
+[ Key Word :       deficient, Hash Code : 1483114870, Hash Value :    54]
+[ Key Word :       aggravate, Hash Code : 2857170743, Hash Value :    55]
+[ Key Word :      legitimate, Hash Code :  785775416, Hash Value :    56]
+[ Key Word :      legitimate, Hash Code :  785775416, Hash Value :    56]
+[ Key Word :        instinct, Hash Code : 1836468280, Hash Value :    56]
+[ Key Word :     accommodate, Hash Code :  582244729, Hash Value :    57]
+[ Key Word :     accommodate, Hash Code :  582244729, Hash Value :    57]
+[ Key Word :       pertinent, Hash Code : 1858671993, Hash Value :    57]
+[ Key Word :      coordinate, Hash Code : 1322607994, Hash Value :    58]
+[ Key Word :      coordinate, Hash Code : 1322607994, Hash Value :    58]
+[ Key Word :     incorporate, Hash Code : 1759295866, Hash Value :    58]
+[ Key Word :    intervention, Hash Code : 2271386364, Hash Value :    60]
+[ Key Word :     conjunction, Hash Code :  604373948, Hash Value :    60]
+[ Key Word :      incidental, Hash Code :  244739519, Hash Value :    63]
+[ Key Word :      incidental, Hash Code :  244739519, Hash Value :    63]
+
+Status of each Bucket
+Bucket[  0] : [       diagnose,     0], 
+Bucket[  1] : [        mediate,     1], [       frequent,     1], [       frequent,     1], [        procure,     1], [     consistent,     1], [    substantial,     1], 
+Bucket[  2] : [        resolve,     2], [        resolve,     2], [      exquisite,     2], 
+Bucket[  3] : [     relinquish,     3], [    description,     3], 
+Bucket[  4] : 
+Bucket[  5] : [         resume,     5], [         resume,     5], [         accrue,     5], 
+Bucket[  6] : [     proficient,     6], 
+Bucket[  7] : 
+Bucket[  8] : 
+Bucket[  9] : [     compromise,     9], [     compromise,     9], [     compromise,     9], [     compromise,     9], [       aptitude,     9], [      improvise,     9], 
+Bucket[ 10] : [   sophisticate,    10], [   sophisticate,    10], [     initiative,    10], [       succinct,    10], [      liquidate,    10], [      fascinate,    10], 
+Bucket[ 11] : 
+Bucket[ 12] : [         entail,    12], [         retail,    12], [         retail,    12], 
+Bucket[ 13] : [      commodity,    13], 
+Bucket[ 14] : [           mean,    14], [           mean,    14], [           mean,    14], [      gratitude,    14], [       hesitant,    14], 
+Bucket[ 15] : [       regulate,    15], [      prescribe,    15], 
+Bucket[ 16] : [     subjective,    16], 
+Bucket[ 17] : [     correspond,    17], 
+Bucket[ 18] : [          offer,    18], [          offer,    18], [     substitute,    18], [     substitute,    18], [        amenity,    18], [         meager,    18], 
+Bucket[ 19] : [         assess,    19], [      nutrution,    19], 
+Bucket[ 20] : [         deduct,    20], [          audit,    20], [          audit,    20], [         commit,    20], 
+Bucket[ 21] : [     administer,    21], 
+Bucket[ 22] : [        rectify,    22], 
+Bucket[ 23] : [    disseminate,    23], 
+Bucket[ 24] : 
+Bucket[ 25] : [    consolidate,    25], 
+Bucket[ 26] : 
+Bucket[ 27] : 
+Bucket[ 28] : 
+Bucket[ 29] : [      mandatory,    29], 
+Bucket[ 30] : [      elaborate,    30], [      elaborate,    30], [        adverse,    30], [        diverse,    30], 
+Bucket[ 31] : [        endorse,    31], [        expanse,    31], [        fatigue,    31], 
+Bucket[ 32] : [    certificate,    32], [    certificate,    32], [      stipulate,    32], [        invoice,    32], [        invoice,    32], [     collborate,    32], [        indulge,    32], 
+Bucket[ 33] : [        premise,    33], [        premise,    33], [       dominate,    33], [        presume,    33], 
+Bucket[ 34] : [        revenue,    34], 
+Bucket[ 35] : [      fluctuate,    35], 
+Bucket[ 36] : [          yield,    36], [          yield,    36], 
+Bucket[ 37] : [         endure,    37], [          abide,    37], [          weave,    37], [          weave,    37], [         secure,    37], [         secure,    37], [          quote,    37], [          abate,    37], 
+Bucket[ 38] : [     subsidiary,    38], [     subsidiary,    38], [      reconcile,    38], 
+Bucket[ 39] : [        broaden,    39], 
+Bucket[ 40] : [       eligible,    40], [   apprehensive,    40], [     comprehend,    40], 
+Bucket[ 41] : [     compatible,    41], 
+Bucket[ 42] : [    deteriorate,    42], [   prerequisite,    42], [       scrutiny,    42], [       punctual,    42], [    investigate,    42], 
+Bucket[ 43] : [        refrain,    43], [        refrain,    43], 
+Bucket[ 44] : 
+Bucket[ 45] : [     attainment,    45], 
+Bucket[ 46] : 
+Bucket[ 47] : [      bilateral,    47], [      affiliate,    47], [      affiliate,    47], 
+Bucket[ 48] : [        plummet,    48], [        plummet,    48], 
+Bucket[ 49] : [        recruit,    49], [        recruit,    49], [       prohibit,    49], 
+Bucket[ 50] : 
+Bucket[ 51] : 
+Bucket[ 52] : [         assort,    52], [      itinerary,    52], 
+Bucket[ 53] : 
+Bucket[ 54] : [       obligate,    54], [      deficient,    54], 
+Bucket[ 55] : [      aggravate,    55], 
+Bucket[ 56] : [     legitimate,    56], [     legitimate,    56], [       instinct,    56], 
+Bucket[ 57] : [    accommodate,    57], [    accommodate,    57], [      pertinent,    57], 
+Bucket[ 58] : [     coordinate,    58], [     coordinate,    58], [    incorporate,    58], 
+Bucket[ 59] : 
+Bucket[ 60] : [   intervention,    60], [    conjunction,    60], 
+Bucket[ 61] : 
+Bucket[ 62] : 
+Bucket[ 63] : [     incidental,    63], [     incidental,    63], 
+
+Total 130 words in my Voca_Dictionary ..
+diagnose(v):
+ - thesaurus(identify, analyze, spot, detect, establish, )
+ - example usage(The doctor who diagnosed my wife¡¯s illness yesterday told me to come to the hospital again. )
+mediate(v):
+ - thesaurus(arbitrate, facilitate, )
+ - example usage(The woman who wants to mediate her friends is throw a party for her friends. )
+frequent(v):
+ - thesaurus(visit, haunt, )
+ - example usage(The man who really like travelling frequents a tourist attraction in all over of KOREA. )
+frequent(adj):
+ - thesaurus(common, normal, )
+ - example usage(Fighting with his best friend who is not good due to not important things is frequent. )
+procure(v):
+ - thesaurus(acquire, obtain, )
+ - example usage(The man who has to procure many stuffs is a manager of his baseball team. )
+consistent(adj):
+ - thesaurus(reliable, steady, )
+ - example usage(We always go to only one rice soup store because of consistent taste and service. )
+substantial(adj):
+ - thesaurus(considerable, solid, real, extensive, )
+ - example usage(The bus company had a substantially lower review for provided service than our competitors had. )
+resolve(n):
+ - thesaurus(resolution, determination, )
+ - example usage(That woman who makes a resolve is going to be a doctor until twenty-five years old. )
+resolve(v):
+ - thesaurus(fix, determine, )
+ - example usage(That guy who is important to me resolved to be a responsible man for me. )
+exquisite(adj):
+ - thesaurus(beautiful, excellent, sensitive, intense, dainty, )
+ - example usage(The man who is exquisite in his sense is sharp to his job such as research and study. )
+relinquish(v):
+ - thesaurus(surrender, abandon, renounce, )
+ - example usage(The man who did fault to his friend relinquishes himself to be a friend with his friend again. )
+description(n):
+ - thesaurus(account, explanation, )
+ - example usage(The description of the project did not match what we saw in his oral presentation. )
+resume(v):
+ - thesaurus(continue, restart, )
+ - example usage(You played game last 10 hours, so you must resume after you take a nap. )
+resume(n):
+ - thesaurus(summary, schema, )
+ - example usage(Your resume about job you had before is clear what are you want to do. )
+accrue(v):
+ - thesaurus(accumulate, ensue, )
+ - example usage(By growing my stack itself, my money is accrued as much as Warren Buffett¡¯s money. )
+proficient(adj):
+ - thesaurus(adept, able, skilled, )
+ - example usage(that guy who is talking a lot is proficient for his job that is dealing with customers. )
+compromise(v):
+ - thesaurus(cooperate, bargain, negotiate, concede, )
+ - example usage(The woman who wants to eat bread and milk compromised by eating rice with soup. )
+compromise(n):
+ - thesaurus(cooperation, settlement, concession, conciliation, )
+ - example usage(The man who feels angry and his friend made a compromise and will eat lunch together. )
+compromise(v):
+ - thesaurus(settle, conciliate, find a middle ground, )
+ - example usage(He does not like sweet dishes so I compromised by adding just a small amount of sugar. )
+compromise(n):
+ - thesaurus(give-and-take, bargaining, accommodation, )
+ - example usage(The couple made a compromise and ordered food to take out. )
+aptitude(n):
+ - thesaurus(gift, talent, )
+ - example usage(My grandson and granddaughter have a special aptitude that makes me happy in its own way. )
+improvise(v):
+ - thesaurus(extemporize, create, )
+ - example usage(The woman who is the best singer in her country improvises her song for her parents. )
+sophisticate(v):
+ - thesaurus(improve, adulterate, corrupt, )
+ - example usage(That guy who looks pure enough is sophisticate on his every talking that is not real. )
+sophisticate(n):
+ - thesaurus(trend setter, socialite, )
+ - example usage(That sophisticate who knows the way of the world is deal badly with a person. )
+initiative(n):
+ - thesaurus(action, leadership, )
+ - example usage(The man who really want to go travel has an initiative about travel with his friends. )
+succinct(adj):
+ - thesaurus(brief, blunt, )
+ - example usage(The woman who is about to do a presentation has to talk succinct about her story or argument. )
+liquidate(v):
+ - thesaurus(settle, discharge, )
+ - example usage(He wants to liquidate his money that is his the most important retirement fund and installment saving. )
+fascinate(v):
+ - thesaurus(captivate, charm, )
+ - example usage(The fascination of her boyfriend is bigger and bigger by receiving a birthday present by her boyfriend. )
+entail(v):
+ - thesaurus(require, involve, )
+ - example usage(The woman who really wants to be a leader has to entail leadership and ability. )
+retail(v):
+ - thesaurus(sell, peddle, )
+ - example usage(The store in my city retails all of store that are spread on all of country. )
+retail(n):
+ - thesaurus(trade, selling, )
+ - example usage(The retail store of my city has everything what I want such as water and beer. )
+commodity(n):
+ - thesaurus(product, item, service, goods, )
+ - example usage(A man who makes commodity such as pencil, eraser, and post-it is leader of start-up. )
+mean(v):
+ - thesaurus(require, denote, intend, )
+ - example usage(What do you mean by "perfect" ? )
+mean(adj):
+ - thesaurus(nasty, poor, middle, miserly, paltry, )
+ - example usage(a man of mean intelligence a mean appearance )
+mean(n):
+ - thesaurus(average, norm, median, middle, midpoint, (ant) extremity, )
+ - example usage(the mean error the golden mean the arithmetical mean the geometric mean )
+gratitude(n):
+ - thesaurus(appreciation, thankfulness, )
+ - example usage(If your gratitude about last work is real, you can not do it like this. )
+hesitant(adj):
+ - thesaurus(uncertain, doubtful, undecided, )
+ - example usage(That hesitant guy who can not decide everything well go to the counseling center and wants to solve that problem about it. )
+regulate(v):
+ - thesaurus(control, moderate, order, adjust, )
+ - example usage(The woman who regulates her son to stay at home stays beside her son together. )
+prescribe(v):
+ - thesaurus(recommend, set, fix, suggest, stipulate, )
+ - example usage(I had a fever because the medicine prescribed by the doctor at the hospital I went to yesterday did not work. )
+subjective(adj):
+ - thesaurus(personal, slanted, individual, )
+ - example usage(The woman who made an opinion about her lecture is subjective on her own argument. )
+correspond(v):
+ - thesaurus(agree, communicate in writing, )
+ - example usage(The man who is in army that is far from his hometown corresponds with his girlfriend. )
+offer(v):
+ - thesaurus(to propose, )
+ - example usage(She must offer her banker new statistics in order to satisfy the bank's requirement for the loan. )
+offer(n):
+ - thesaurus(proposal, )
+ - example usage(He accepted out offer to write the business plan. )
+substitute(v):
+ - thesaurus(replace, displace, )
+ - example usage(The man who got a talent about his job want to be a substitute about his colleague. )
+substitute(n):
+ - thesaurus(surrogate, make shift, )
+ - example usage(The man who does not have ability about his job want to use substitute about work )
+amenity(adj):
+ - thesaurus(facility, pleasantness, comfort, )
+ - example usage(The convenience store gives us many amenities such as every meal, life stuffs, and new things. )
+meager(adj):
+ - thesaurus(scanty, insufficient, inadequate, stingy, skimpy, )
+ - example usage(My new member of the gym is a too meager body, eat lots of rice and exercise a lot. )
+assess(v):
+ - thesaurus(measure, tax, evaluate, charge, judge, )
+ - example usage(The neighboring country¡¯s government has assessed the largest tax ever to the nation¡¯s top companies. )
+nutrution(n):
+ - thesaurus(nourishment, diet, food, sustenance, )
+ - example usage(Eating breakfast and morning nutrition is very important to our health and daily lives. )
+deduct(v):
+ - thesaurus(remove, withhold, )
+ - example usage(By deducting my phone fee from SK telecom, I will pay it on a half. )
+audit(v):
+ - thesaurus(check, review, )
+ - example usage(A man who has to audit a company has to prepare data about an audit. )
+audit(n):
+ - thesaurus(review, check, )
+ - example usage(A man who is surprised by audit has to organize his data about his company. )
+commit(v):
+ - thesaurus(obligate, pledge, )
+ - example usage(A woman who commits to her friend with her sister apologizes to her friend with her sister. )
+administer(v):
+ - thesaurus(manage, direct, )
+ - example usage(The man who is manager of baseball team really wants to administer his team as he wants. )
+rectify(v):
+ - thesaurus(remedy, cure, )
+ - example usage(The man who rectifies his English essay is student of lecture that is English communication skill. )
+disseminate(v):
+ - thesaurus(spread, circulate, )
+ - example usage(The internet that disseminates a lot of pieces of information made by various people is helpful to live. )
+consolidate(v):
+ - thesaurus(combine, strengthen, merge, )
+ - example usage(A woman who is leader of team consolidates her study group with her partner's study group. )
+mandatory(adj):
+ - thesaurus(obligatory, required, )
+ - example usage(The game shop has a mandatory policy of all game stuff are sample such as just case of game. )
+elaborate(v):
+ - thesaurus(make detailed, expand, )
+ - example usage(The man who makes a deal with his customer has to elaborate his new product. )
+elaborate(adj):
+ - thesaurus(intricate, involved, )
+ - example usage(The woman who makes a graduation product can make it more elaborate with her ability. )
+adverse(adj):
+ - thesaurus(arbitrate, facilitate, )
+ - example usage(The women who adverse face-to-face study in college wants to do Non-face-to-face study at home. )
+diverse(adj):
+ - thesaurus(different, various, )
+ - example usage(The woman who got a diverse ability form god is going to be an entertainer. )
+endorse(v):
+ - thesaurus(sanction, approve, )
+ - example usage(The woman who endorses her friend for class president is vice president of her class. )
+expanse(n):
+ - thesaurus(area, spread, stretch, span, )
+ - example usage(You can expanse your knowledge by studying what you want to learn, do, and read. )
+fatigue(n):
+ - thesaurus(exhaustion, tiredness, weariness, weakness, )
+ - example usage(The national team and other athletes are under endless fatigue after important competitions such as the Olympics. )
+certificate(v):
+ - thesaurus(autheticate, authorize, )
+ - example usage(The teacher who teaches safe driving wants to certificate the ability about his student's safe driving. )
+certificate(n):
+ - thesaurus(license, authorization, )
+ - example usage(If you use this certificate for escape the danger just for you, you will regret for use. )
+stipulate(v):
+ - thesaurus(rule, decide on conditions, specify, )
+ - example usage(That guy who does not know me can not stipulate my job and I will do my job freely. )
+invoice(v):
+ - thesaurus(bill, charge, )
+ - example usage(If you send your stuff to your friend, you have to invoice on your box. )
+invoice(n):
+ - thesaurus(statement, demand, )
+ - example usage(If you want to check the position of your stuff, you have to check your invoice number int the website. )
+collborate(v):
+ - thesaurus(cooperate, participate, team up, )
+ - example usage(A woman who collaborates team project about lecture with her partner is good at her area. )
+indulge(v):
+ - thesaurus(spoil, pamper, )
+ - example usage(The man who has first shopping in his life indulges to spend his entire money. )
+premise(v):
+ - thesaurus(hypothesize, precede, )
+ - example usage(The woman who really wants to be a Hollywood star premises she has to make a history about her. )
+premise(n):
+ - thesaurus(hypothesis, argument, )
+ - example usage(The man who talked before on the stage wants his premise are correct and good. )
+dominate(v):
+ - thesaurus(control, rule, )
+ - example usage(The woman who dominates her country is the late queen who got a wise lord. )
+presume(v):
+ - thesaurus(believe, venture, assume, guess, )
+ - example usage(The man who studies hard presumes that he will get an A grade in the lecture. )
+revenue(n):
+ - thesaurus(income, proceeds, )
+ - example usage(The man who is the richest person of KOREA makes the most revenue on his job. )
+fluctuate(v):
+ - thesaurus(vary, swing, oscillate, waver, )
+ - example usage(A man who is boss of his company fluctuates his product price frequently with his partner. )
+yield(v):
+ - thesaurus(generate, return, )
+ - example usage(A man who yields his own thing makes his own money with his partner who is his friend. )
+yield(n):
+ - thesaurus(harvest, profit, )
+ - example usage(A man who calculates yield about harvest is going to be a manager about a company. )
+endure(v):
+ - thesaurus(suffer, sustain, )
+ - example usage(The man who is training in army has to endure mental and physical pain on his own. )
+abide(v):
+ - thesaurus(remain, stay, )
+ - example usage(A man who travels in New York city, US for a first time abides for a month. )
+weave(n):
+ - thesaurus(pile, texture, nap, )
+ - example usage(A woman who weaves her friend's clothes with her material is thanked by her all friends. )
+weave(v):
+ - thesaurus(interlace, knit, plait, intertwine, )
+ - example usage(A man who got a good weave skill will makes good clothes to all customers. )
+secure(v):
+ - thesaurus(obtain, lock, fix, ensure, guarantee, )
+ - example usage(The man who made a promise with his elder friend secures it hard on himself. )
+secure(adj):
+ - thesaurus(safe, confident, dependable, firm, )
+ - example usage(The woman who got a weak mind is not secure from other people and society. )
+quote(v):
+ - thesaurus(cite, repeat, estimate, offer, )
+ - example usage(The man who quoted what his father said before to him lives on his father's way. )
+abate(v):
+ - thesaurus(decrease, subside, decline, fail, stop, )
+ - example usage(The coronavirus has abated people¡¯s population movement and reduced the economy at a very high rate of infection. )
+subsidiary(n):
+ - thesaurus(company, firm, )
+ - example usage(A man who is subsidiary about a lecture has to prepare devices about that lecture. )
+subsidiary(adj):
+ - thesaurus(lesser, secondary, )
+ - example usage(A man who is subsidiary professor goes to a lecture room for teach his students. )
+reconcile(v):
+ - thesaurus(settle, reunite, )
+ - example usage(A man who did a fault with his sister reconcile to a girl with his sister. )
+broaden(v):
+ - thesaurus(widen, extend, )
+ - example usage(If my kid eats various food in balance, his taste will broaden like a universe. )
+eligible(adj):
+ - thesaurus(fit, acceptable, qualified, suitable, )
+ - example usage(That eligible guy who wants to be a husband with you send a bunch of flowers with his hand letter. )
+apprehensive(adj):
+ - thesaurus(anxious, nervous, edgy, uneasy, )
+ - example usage(A woman who is apprehensive girl is nervous on her all things such as studying and meeting. )
+comprehend(v):
+ - thesaurus(realize, understand, know, grasp, )
+ - example usage(The man who comprehends what he has to do is good at his every job. )
+compatible(adj):
+ - thesaurus(agreeable, adaptable, )
+ - example usage(The woman who got a part time job is compatible with her school life and study. )
+deteriorate(v):
+ - thesaurus(decay, decline, )
+ - example usage(The man who has a big and sharp nose deteriorate his friend's health by decayed food. )
+prerequisite(n):
+ - thesaurus(condition, necessity, )
+ - example usage(The man who has to keep his prerequisite of project is a student at university. )
+scrutiny(n):
+ - thesaurus(inspection, examination, analysis, enquiry, study, )
+ - example usage(A man who makes a scrutiny with his partner will get an A grade on his lecture. )
+punctual(adj):
+ - thesaurus(prompt, timely, )
+ - example usage(The woman who is punctual on her promises is popular to her all friends and colleagues. )
+investigate(v):
+ - thesaurus(consider, examine, )
+ - example usage(The police officer needs to investigate the fact about an accident and clear up the situation. )
+refrain(v):
+ - thesaurus(avoid, abstain, )
+ - example usage(The woman who wants to diet due to next month refrains to eat noodle or etc. )
+refrain(n):
+ - thesaurus(melody, theme, )
+ - example usage(The woman who is talented on compose music makes a refrain about her friend's song. )
+attainment(n):
+ - thesaurus(achievement, accomplishment, )
+ - example usage(The man who works for the company received a lot of gratitude for his many attainments. )
+bilateral(adj):
+ - thesaurus(two-sided, joint, )
+ - example usage(A man who is bilateral friend is good to me and also bad to me. )
+affiliate(n):
+ - thesaurus(partner, member, colleague, )
+ - example usage(A man who is Boss of a company affiliates his company with his partner¡¯s company. )
+affiliate(v):
+ - thesaurus(associate, unite, join, link, )
+ - example usage(A man who works in an affiliate earns less than his friend who works in a head office. )
+plummet(v):
+ - thesaurus(fall, plunge, )
+ - example usage(A man who wants to plummet into that pond usually do a water game with his friends. )
+plummet(n):
+ - thesaurus(thepiece of lead, bob of a plumb line, )
+ - example usage(The plummet of value of a company led to the collapse of the company. )
+recruit(v):
+ - thesaurus(draft, conscript, employ, )
+ - example usage(ministry of national defense of south Korea recruit youth guys who is healthy and responsible. )
+recruit(n):
+ - thesaurus(draftee, newcomer, rookie, )
+ - example usage(That recruit who is drafted yesterday looks like nervous and about to make a lot of accidents. )
+prohibit(v):
+ - thesaurus(forbid, exclude, outlaw, ban, )
+ - example usage(The convenience store prohibits to sell liquor like soju and beer to non-adult, but it can sell to adult. )
+assort(v):
+ - thesaurus(classify, separate, divide, )
+ - example usage(The man who assorts his own pieces of stuff makes it tidy like a department store. )
+itinerary(n):
+ - thesaurus(route, journey, circuit, )
+ - example usage(You have to change your itinerary when you get more project from your supervisor or CEO. )
+obligate(v):
+ - thesaurus(require, constrain, )
+ - example usage(That guy who believes me so much obligate me to be a good leader of a team. )
+deficient(adj):
+ - thesaurus(lacking, faulty, scarce, flawed, underprovided, )
+ - example usage(I will study a lot at university because I am deficient in my skill to learn new technology in the future. )
+aggravate(v):
+ - thesaurus(worsen, exacerbate, annoy, irritate, exaggerate, )
+ - example usage(The worst friend I have ever had in my life is bad-natured and it aggravates everyone, including me. )
+legitimate(v):
+ - thesaurus(legalize, legitimize, authorize, )
+ - example usage(A man who legitimates his talking is good at talk with his friend and partner. )
+legitimate(adj):
+ - thesaurus(lawful, legal, reasonable, valid, genuine, )
+ - example usage(A woman who makes legitimate policy is already known to all companies including our company. )
+instinct(n):
+ - thesaurus(aptitude, feeling, )
+ - example usage(The man who has unbalanced music taste has the instinct to choose music that he wants to listen to. )
+accommodate(v):
+ - thesaurus(house, lodge, adapt, contain, assist, )
+ - example usage(The break room is good enough to accommodate our needs to eat lunch and study. )
+accommodate(v):
+ - thesaurus(oblige, serve, )
+ - example usage(The man who is president of some country must accommodate the public of his country. )
+pertinent(adj):
+ - thesaurus(relevant, related, apposite, appropriate, germane, )
+ - example usage(Anyone pertinent in yesterday¡¯s crime should go to the police station for questioning and then go home. )
+coordinate(v):
+ - thesaurus(organize, manage, align, )
+ - example usage(The woman who makes several friends who do not know each other cannot coordinate their relationship. )
+coordinate(n):
+ - thesaurus(coordination, equal, altitude and longitude, )
+ - example usage(Coordinate is important in all situations such as writing essays, talk with friends, and wear clothes. )
+incorporate(v):
+ - thesaurus(join, merge, combine, contain, )
+ - example usage(The woman who incorporates her own companies can be the richest person in her country. )
+intervention(n):
+ - thesaurus(interference, intercession, mediation, )
+ - example usage(A woman who got a good intervention skill is good friend to all people including me. )
+conjunction(n):
+ - thesaurus(combination, aggregation, )
+ - example usage(Conjunctions such as "although", "but", and " and " usually used in connecting sentences in several ways. )
+incidental(n):
+ - thesaurus(extras, contingencies, expenses, )
+ - example usage(Incidentals like what your PC is down, and power is over can make your projects collapsed. )
+incidental(adj):
+ - thesaurus(related, attendant, nonessential, secondary, )
+ - example usage(The argument what you said is fact, but it is incidental thing of my argument. )
+
+

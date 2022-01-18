@@ -1,0 +1,68 @@
+Inserting vertices ..
+Inserted vertices: STL, RPD, SF, CHG, LA, DLS, MIA, NY, BOS, 
+Inserting edges ..
+Inserted edges: 
+Edge(STL, RPD,  949), Edge(STL, SF,  680), Edge(RPD, STL,  949), Edge(RPD, SF, 1090), Edge(RPD, CHG,  801), 
+Edge(SF, STL,  680), Edge(SF, RPD, 1090), Edge(SF, CHG, 1846), Edge(SF, LA,  337), Edge(SF, DLS, 1464), 
+Edge(CHG, RPD,  801), Edge(CHG, SF, 1846), Edge(CHG, DLS,  802), Edge(CHG, NY,  740), Edge(CHG, BOS,  867), 
+Edge(LA, SF,  337), Edge(LA, DLS, 1235), Edge(LA, MIA, 2342), Edge(DLS, SF, 1464), Edge(DLS, CHG,  802), 
+Edge(DLS, LA, 1235), Edge(DLS, MIA, 1121), Edge(MIA, LA, 2342), Edge(MIA, DLS, 1121), Edge(MIA, NY, 1090), 
+Edge(MIA, BOS, 1258), Edge(NY, CHG,  740), Edge(NY, MIA, 1090), Edge(NY, BOS,  187), Edge(BOS, CHG,  867), 
+Edge(BOS, MIA, 1258), Edge(BOS, NY,  187), 
+Print out Graph based on Adjacency List ..
+GRAPH_Simple_USA_9_Cities with 9 vertices has following connectivity :
+ vertex (STL) : Edge(STL, RPD,  949) Edge(STL, SF,  680) 
+ vertex (RPD) : Edge(RPD, STL,  949) Edge(RPD, SF, 1090) Edge(RPD, CHG,  801) 
+ vertex ( SF) : Edge(SF, STL,  680) Edge(SF, RPD, 1090) Edge(SF, CHG, 1846) Edge(SF, LA,  337) Edge(SF, DLS, 1464) 
+ vertex (CHG) : Edge(CHG, RPD,  801) Edge(CHG, SF, 1846) Edge(CHG, DLS,  802) Edge(CHG, NY,  740) Edge(CHG, BOS,  867) 
+ vertex ( LA) : Edge(LA, SF,  337) Edge(LA, DLS, 1235) Edge(LA, MIA, 2342) 
+ vertex (DLS) : Edge(DLS, SF, 1464) Edge(DLS, CHG,  802) Edge(DLS, LA, 1235) Edge(DLS, MIA, 1121) 
+ vertex (MIA) : Edge(MIA, LA, 2342) Edge(MIA, DLS, 1121) Edge(MIA, NY, 1090) Edge(MIA, BOS, 1258) 
+ vertex ( NY) : Edge(NY, CHG,  740) Edge(NY, MIA, 1090) Edge(NY, BOS,  187) 
+ vertex (BOS) : Edge(BOS, CHG,  867) Edge(BOS, MIA, 1258) Edge(BOS, NY,  187) 
+
+Testing Breadth First Search with Dijkstra Algorithm
+
+Distance Matrix of Graph (GRAPH_Simple_USA_9_Cities) :
+      |  STL  RPD   SF  CHG   LA  DLS  MIA   NY  BOS
+-------+---------------------------------------------
+  STL |    0  949  680  +oo  +oo  +oo  +oo  +oo  +oo
+  RPD |  949    0 1090  801  +oo  +oo  +oo  +oo  +oo
+   SF |  680 1090    0 1846  337 1464  +oo  +oo  +oo
+  CHG |  +oo  801 1846    0  +oo  802  +oo  740  867
+   LA |  +oo  +oo  337  +oo    0 1235 2342  +oo  +oo
+  DLS |  +oo  +oo 1464  802 1235    0 1121  +oo  +oo
+  MIA |  +oo  +oo  +oo  +oo 2342 1121    0 1090 1258
+   NY |  +oo  +oo  +oo  740  +oo  +oo 1090    0  187
+  BOS |  +oo  +oo  +oo  867  +oo  +oo 1258  187    0
+
+
+Dijkstra Shortest Path Finding from STL to MIA .... 
+Dijkstra::Least Cost from Vertex (STL) at each round : 
+           |  STL  RPD   SF  CHG   LA  DLS  MIA   NY  BOS
+-----------+---------------------------------------------
+round [ 1] |    0  949  680 2526 1017 2144  +oo  +oo  +oo ==> selected vertex : SF
+round [ 2] |    0  949  680 1750 1017 2144  +oo  +oo  +oo ==> selected vertex : RPD
+round [ 3] |    0  949  680 1750 1017 2144 3359  +oo  +oo ==> selected vertex : LA
+round [ 4] |    0  949  680 1750 1017 2144 3359 2490 2617 ==> selected vertex : CHG
+round [ 5] |    0  949  680 1750 1017 2144 3265 2490 2617 ==> selected vertex : DLS
+round [ 6] |    0  949  680 1750 1017 2144 3265 2490 2617 ==> selected vertex : NY
+round [ 7] |    0  949  680 1750 1017 2144 3265 2490 2617 ==> selected vertex : BOS
+round [ 8] |
+reached to the target node (MIA) at Least Cost = 3265
+Path found by DijkstraShortestPath from STL to MIA : STL -> SF -> DLS -> MIA
+
+Dijkstra Shortest Path Finding from MIA to STL .... 
+Dijkstra::Least Cost from Vertex (MIA) at each round : 
+           |  STL  RPD   SF  CHG   LA  DLS  MIA   NY  BOS
+-----------+---------------------------------------------
+round [ 1] |  +oo  +oo  +oo 1830 2342 1121    0 1090 1258 ==> selected vertex : NY
+round [ 2] |  +oo  +oo 2585 1830 2342 1121    0 1090 1258 ==> selected vertex : DLS
+round [ 3] |  +oo  +oo 2585 1830 2342 1121    0 1090 1258 ==> selected vertex : BOS
+round [ 4] |  +oo 2631 2585 1830 2342 1121    0 1090 1258 ==> selected vertex : CHG
+round [ 5] |  +oo 2631 2585 1830 2342 1121    0 1090 1258 ==> selected vertex : LA
+round [ 6] | 3265 2631 2585 1830 2342 1121    0 1090 1258 ==> selected vertex : SF
+round [ 7] | 3265 2631 2585 1830 2342 1121    0 1090 1258 ==> selected vertex : RPD
+round [ 8] |
+reached to the target node (STL) at Least Cost = 3265
+Path found by DijkstraShortestPath from MIA to STL : MIA -> DLS -> SF -> STL

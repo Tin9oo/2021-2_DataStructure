@@ -1,0 +1,37 @@
+﻿  main.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(44,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(33,32): warning C4101: 'numEventProcessed' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(25,6): warning C4101: 'pkt_event_handler_addr' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(23,41): warning C4101: 'pEv_max_elapsed_time' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(23,7): warning C4101: 'pEvent' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(35,6): warning C4101: 'eventProcessed' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(33,6): warning C4101: 'count' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(25,30): warning C4101: 'eventPriority' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(23,17): warning C4101: 'pEv_min_elasped_time' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(34,6): warning C4101: 'num_events_in_PrioQ' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(33,13): warning C4101: 'numEventGenerated' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\T_Array.h(30,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\T_Array.h(26): message : 클래스 템플릿 멤버 함수 'T_Array<E>::T_Array(int,std::string)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              E=int
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\CompleteBinaryTree.h(31): message : 컴파일되는 함수 템플릿 인스턴스화 'T_Array<E>::T_Array(int,std::string)'에 대한 참조를 확인하세요.
+          with
+          [
+              E=int
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\CompleteBinaryTree.h(31): message : 클래스 템플릿 멤버 함수 'CompleteBinaryTree<E>::CompleteBinaryTree(int,std::string)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              E=int
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\HeapPrioQ.h(22): message : 컴파일되는 함수 템플릿 인스턴스화 'CompleteBinaryTree<E>::CompleteBinaryTree(int,std::string)'에 대한 참조를 확인하세요.
+          with
+          [
+              E=int
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\HeapPrioQ.h(22): message : 클래스 템플릿 멤버 함수 'HeapPrioQueue<int>::HeapPrioQueue(int,std::string)'을(를) 컴파일하는 중입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(22): message : 컴파일되는 함수 템플릿 인스턴스화 'HeapPrioQueue<int>::HeapPrioQueue(int,std::string)'에 대한 참조를 확인하세요.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Exam3D_21812158_김주환\main.cpp(22): message : 컴파일되는 클래스 템플릿 인스턴스화 'HeapPrioQueue<int>'에 대한 참조를 확인하세요.
+  Exam3D_21812158_김주환.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3D_21812158_김주환\Debug\Exam3D_21812158_김주환.exe

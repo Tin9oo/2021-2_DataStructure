@@ -1,0 +1,60 @@
+Initializing student array (num students : 10)
+Student(ID : 11955, Name :             Ggbw, Dept :    Fnq, birth date : Birth date : (1391- 1-28), Grade : 71.38
+Student(ID : 29012, Name :            Fozvs, Dept :    Tkj, birth date : Birth date : (2869- 5-31), Grade : 11.53
+Student(ID : 35516, Name :            Xrpnr, Dept :    Yst, birth date : Birth date : (1868-12-24), Grade : 90.42
+Student(ID : 30462, Name :           Ycqpev, Dept :    Kef, birth date : Birth date : (1288-11-11), Grade : 93.48
+Student(ID : 45280, Name :            Kkasv, Dept :    Sre, birth date : Birth date : (2629-12-29), Grade : 23.37
+Student(ID : 19585, Name :             Fxtl, Dept :    Gyp, birth date : Birth date : (2538- 3- 6), Grade : 6.73
+Student(ID : 18635, Name :           Oefxzb, Dept :    Oej, birth date : Birth date : (1386- 6- 6), Grade : 36.55
+Student(ID : 12539, Name :           Oygpoe, Dept :    Lfp, birth date : Birth date : (1767- 4- 5), Grade : 37.57
+Student(ID : 42102, Name :           Rvipya, Dept :    Yeh, birth date : Birth date : (1287-10-30), Grade : 68.00
+Student(ID : 26572, Name :            Pmxuj, Dept :    Loo, birth date : Birth date : (1591- 7-13), Grade : 91.36
+
+Sorting studentArray by student id : 
+Student(ID : 11955, Name :             Ggbw, Dept :    Fnq, birth date : Birth date : (1391- 1-28), Grade : 71.38
+Student(ID : 12539, Name :           Oygpoe, Dept :    Lfp, birth date : Birth date : (1767- 4- 5), Grade : 37.57
+Student(ID : 18635, Name :           Oefxzb, Dept :    Oej, birth date : Birth date : (1386- 6- 6), Grade : 36.55
+Student(ID : 19585, Name :             Fxtl, Dept :    Gyp, birth date : Birth date : (2538- 3- 6), Grade : 6.73
+Student(ID : 26572, Name :            Pmxuj, Dept :    Loo, birth date : Birth date : (1591- 7-13), Grade : 91.36
+Student(ID : 29012, Name :            Fozvs, Dept :    Tkj, birth date : Birth date : (2869- 5-31), Grade : 11.53
+Student(ID : 30462, Name :           Ycqpev, Dept :    Kef, birth date : Birth date : (1288-11-11), Grade : 93.48
+Student(ID : 35516, Name :            Xrpnr, Dept :    Yst, birth date : Birth date : (1868-12-24), Grade : 90.42
+Student(ID : 42102, Name :           Rvipya, Dept :    Yeh, birth date : Birth date : (1287-10-30), Grade : 68.00
+Student(ID : 45280, Name :            Kkasv, Dept :    Sre, birth date : Birth date : (2629-12-29), Grade : 23.37
+
+Sorting studentArray by student name : 
+Student(ID : 29012, Name :            Fozvs, Dept :    Tkj, birth date : Birth date : (2869- 5-31), Grade : 11.53
+Student(ID : 19585, Name :             Fxtl, Dept :    Gyp, birth date : Birth date : (2538- 3- 6), Grade : 6.73
+Student(ID : 11955, Name :             Ggbw, Dept :    Fnq, birth date : Birth date : (1391- 1-28), Grade : 71.38
+Student(ID : 45280, Name :            Kkasv, Dept :    Sre, birth date : Birth date : (2629-12-29), Grade : 23.37
+Student(ID : 18635, Name :           Oefxzb, Dept :    Oej, birth date : Birth date : (1386- 6- 6), Grade : 36.55
+Student(ID : 12539, Name :           Oygpoe, Dept :    Lfp, birth date : Birth date : (1767- 4- 5), Grade : 37.57
+Student(ID : 26572, Name :            Pmxuj, Dept :    Loo, birth date : Birth date : (1591- 7-13), Grade : 91.36
+Student(ID : 42102, Name :           Rvipya, Dept :    Yeh, birth date : Birth date : (1287-10-30), Grade : 68.00
+Student(ID : 35516, Name :            Xrpnr, Dept :    Yst, birth date : Birth date : (1868-12-24), Grade : 90.42
+Student(ID : 30462, Name :           Ycqpev, Dept :    Kef, birth date : Birth date : (1288-11-11), Grade : 93.48
+
+Sorting studentArray by GPA : 
+Student(ID : 19585, Name :             Fxtl, Dept :    Gyp, birth date : Birth date : (2538- 3- 6), Grade : 6.73
+Student(ID : 11955, Name :             Ggbw, Dept :    Fnq, birth date : Birth date : (1391- 1-28), Grade : 71.38
+Student(ID : 18635, Name :           Oefxzb, Dept :    Oej, birth date : Birth date : (1386- 6- 6), Grade : 36.55
+Student(ID : 29012, Name :            Fozvs, Dept :    Tkj, birth date : Birth date : (2869- 5-31), Grade : 11.53
+Student(ID : 12539, Name :           Oygpoe, Dept :    Lfp, birth date : Birth date : (1767- 4- 5), Grade : 37.57
+Student(ID : 26572, Name :            Pmxuj, Dept :    Loo, birth date : Birth date : (1591- 7-13), Grade : 91.36
+Student(ID : 42102, Name :           Rvipya, Dept :    Yeh, birth date : Birth date : (1287-10-30), Grade : 68.00
+Student(ID : 35516, Name :            Xrpnr, Dept :    Yst, birth date : Birth date : (1868-12-24), Grade : 90.42
+Student(ID : 30462, Name :           Ycqpev, Dept :    Kef, birth date : Birth date : (1288-11-11), Grade : 93.48
+Student(ID : 45280, Name :            Kkasv, Dept :    Sre, birth date : Birth date : (2629-12-29), Grade : 23.37
+
+Sorting studentArray by BirthDate : 
+Student(ID : 42102, Name :           Rvipya, Dept :    Yeh, birth date : Birth date : (1287-10-30), Grade : 68.00
+Student(ID : 30462, Name :           Ycqpev, Dept :    Kef, birth date : Birth date : (1288-11-11), Grade : 93.48
+Student(ID : 18635, Name :           Oefxzb, Dept :    Oej, birth date : Birth date : (1386- 6- 6), Grade : 36.55
+Student(ID : 11955, Name :             Ggbw, Dept :    Fnq, birth date : Birth date : (1391- 1-28), Grade : 71.38
+Student(ID : 26572, Name :            Pmxuj, Dept :    Loo, birth date : Birth date : (1591- 7-13), Grade : 91.36
+Student(ID : 12539, Name :           Oygpoe, Dept :    Lfp, birth date : Birth date : (1767- 4- 5), Grade : 37.57
+Student(ID : 35516, Name :            Xrpnr, Dept :    Yst, birth date : Birth date : (1868-12-24), Grade : 90.42
+Student(ID : 19585, Name :             Fxtl, Dept :    Gyp, birth date : Birth date : (2538- 3- 6), Grade : 6.73
+Student(ID : 45280, Name :            Kkasv, Dept :    Sre, birth date : Birth date : (2629-12-29), Grade : 23.37
+Student(ID : 29012, Name :            Fozvs, Dept :    Tkj, birth date : Birth date : (2869- 5-31), Grade : 11.53
+

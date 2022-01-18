@@ -1,0 +1,37 @@
+﻿  main.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\main.cpp(18,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\main.cpp(31,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\main.cpp(21,7): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\main.cpp(41,9): warning C4101: 'pEv' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\main.cpp(26,7): warning C4101: 'pE' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\main.cpp(25,6): warning C4101: 'size' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\main.cpp(23,6): warning C4101: 'current_top_priority' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\TA_Entry.h(44,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\TA_Entry.h(40): message : 클래스 템플릿 멤버 함수 'TA_Entry<K,V>::TA_Entry(int,std::string)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              K=int,
+              V=Event *
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\CompleteBinaryTree.h(33): message : 컴파일되는 함수 템플릿 인스턴스화 'TA_Entry<K,V>::TA_Entry(int,std::string)'에 대한 참조를 확인하세요.
+          with
+          [
+              K=int,
+              V=Event *
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\CompleteBinaryTree.h(33): message : 클래스 템플릿 멤버 함수 'CompleteBinaryTree<K,V>::CompleteBinaryTree(int,std::string)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              K=int,
+              V=Event *
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\HeapPrioQ.h(23): message : 컴파일되는 함수 템플릿 인스턴스화 'CompleteBinaryTree<K,V>::CompleteBinaryTree(int,std::string)'에 대한 참조를 확인하세요.
+          with
+          [
+              K=int,
+              V=Event *
+          ]
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\HeapPrioQ.h(23): message : 클래스 템플릿 멤버 함수 'HeapPrioQueue<int,Event *>::HeapPrioQueue(int,std::string)'을(를) 컴파일하는 중입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\main.cpp(40): message : 컴파일되는 함수 템플릿 인스턴스화 'HeapPrioQueue<int,Event *>::HeapPrioQueue(int,std::string)'에 대한 참조를 확인하세요.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\21812158_김주환_Lab8\main.cpp(40): message : 컴파일되는 클래스 템플릿 인스턴스화 'HeapPrioQueue<int,Event *>'에 대한 참조를 확인하세요.
+  21812158_김주환_Lab8.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\8\21812158_김주환_Lab8\Debug\21812158_김주환_Lab8.exe

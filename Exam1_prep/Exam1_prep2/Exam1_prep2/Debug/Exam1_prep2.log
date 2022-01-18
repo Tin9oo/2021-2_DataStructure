@@ -1,0 +1,4 @@
+﻿  Mtrx.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam1_prep\Exam1_prep2\Exam1_prep2\Mtrx.cpp(40,42): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam1_prep\Exam1_prep2\Exam1_prep2\Mtrx.cpp(40,32): warning C4101: 'num_data' :참조되지 않은 지역 변수입니다.
+  Exam1_prep2.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam1_prep\Exam1_prep2\Debug\Exam1_prep2.exe

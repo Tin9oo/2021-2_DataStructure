@@ -1,0 +1,22 @@
+Inserting vertices ..
+Inserted vertices: STL, RPD, SF, CHG, LA, DLS, MIA, NY, BOS, 
+Inserting edges ..
+Inserted edges: 
+Edge(STL, RPD,  949), Edge(STL, SF,  680), Edge(RPD, STL,  949), Edge(RPD, SF, 1090), Edge(RPD, CHG,  801), 
+Edge(SF, STL,  680), Edge(SF, RPD, 1090), Edge(SF, CHG, 1846), Edge(SF, LA,  337), Edge(SF, DLS, 1464), 
+Edge(CHG, RPD,  801), Edge(CHG, SF, 1846), Edge(CHG, DLS,  802), Edge(CHG, NY,  740), Edge(CHG, BOS,  867), 
+Edge(LA, SF,  337), Edge(LA, DLS, 1235), Edge(LA, MIA, 2342), Edge(DLS, SF, 1464), Edge(DLS, CHG,  802), 
+Edge(DLS, LA, 1235), Edge(DLS, MIA, 1121), Edge(MIA, LA, 2342), Edge(MIA, DLS, 1121), Edge(MIA, NY, 1090), 
+Edge(MIA, BOS, 1258), Edge(NY, CHG,  740), Edge(NY, MIA, 1090), Edge(NY, BOS,  187), Edge(BOS, CHG,  867), 
+Edge(BOS, MIA, 1258), Edge(BOS, NY,  187), 
+Print out Graph based on Adjacency List ..
+GRAPH_Simple_USA_9_Cities with 9 vertices has following connectivity :
+ vertex (STL) : Edge(STL, RPD,  949) Edge(STL, SF,  680) 
+ vertex (RPD) : Edge(RPD, STL,  949) Edge(RPD, SF, 1090) Edge(RPD, CHG,  801) 
+ vertex ( SF) : Edge(SF, STL,  680) Edge(SF, RPD, 1090) Edge(SF, CHG, 1846) Edge(SF, LA,  337) Edge(SF, DLS, 1464) 
+ vertex (CHG) : Edge(CHG, RPD,  801) Edge(CHG, SF, 1846) Edge(CHG, DLS,  802) Edge(CHG, NY,  740) Edge(CHG, BOS,  867) 
+ vertex ( LA) : Edge(LA, SF,  337) Edge(LA, DLS, 1235) Edge(LA, MIA, 2342) 
+ vertex (DLS) : Edge(DLS, SF, 1464) Edge(DLS, CHG,  802) Edge(DLS, LA, 1235) Edge(DLS, MIA, 1121) 
+ vertex (MIA) : Edge(MIA, LA, 2342) Edge(MIA, DLS, 1121) Edge(MIA, NY, 1090) Edge(MIA, BOS, 1258) 
+ vertex ( NY) : Edge(NY, CHG,  740) Edge(NY, MIA, 1090) Edge(NY, BOS,  187) 
+ vertex (BOS) : Edge(BOS, CHG,  867) Edge(BOS, MIA, 1258) Edge(BOS, NY,  187) 

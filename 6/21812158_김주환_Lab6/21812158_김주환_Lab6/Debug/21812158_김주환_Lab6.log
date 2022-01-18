@@ -1,0 +1,18 @@
+﻿  Color.h
+  Prism.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\6\21812158_김주환_Lab6\21812158_김주환_Lab6\Prism.cpp(43,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\6\21812158_김주환_Lab6\21812158_김주환_Lab6\Prism.cpp(52,18): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\6\21812158_김주환_Lab6\21812158_김주환_Lab6\Prism.cpp(53,18): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\6\21812158_김주환_Lab6\21812158_김주환_Lab6\Prism.cpp(42,59): warning C4101: 'start_ang_rad' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\6\21812158_김주환_Lab6\21812158_김주환_Lab6\Prism.cpp(42,32): warning C4101: 'start_px' :참조되지 않은 지역 변수입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\6\21812158_김주환_Lab6\21812158_김주환_Lab6\Prism.cpp(42,42): warning C4101: 'start_py' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+Debug\Color.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Prism.obj : error LNK2019: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl fprintRGB(class std::basic_ostream<char,struct std::char_traits<char> > &,unsigned long)" (?fprintRGB@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@K@Z)"public: virtual void __thiscall Prism::draw(class ConsolePixelFrame)" (?draw@Prism@@UAEXVConsolePixelFrame@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Shape.obj : error LNK2001: 확인할 수 없는 외부 기호 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl fprintRGB(class std::basic_ostream<char,struct std::char_traits<char> > &,unsigned long)" (?fprintRGB@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@K@Z)
+AngledArc.obj : error LNK2001: 확인할 수 없는 외부 기호 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl fprintRGB(class std::basic_ostream<char,struct std::char_traits<char> > &,unsigned long)" (?fprintRGB@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@K@Z)
+Circle.obj : error LNK2001: 확인할 수 없는 외부 기호 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl fprintRGB(class std::basic_ostream<char,struct std::char_traits<char> > &,unsigned long)" (?fprintRGB@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@K@Z)
+Cylinder.obj : error LNK2001: 확인할 수 없는 외부 기호 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl fprintRGB(class std::basic_ostream<char,struct std::char_traits<char> > &,unsigned long)" (?fprintRGB@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@K@Z)
+Hexahedron.obj : error LNK2001: 확인할 수 없는 외부 기호 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl fprintRGB(class std::basic_ostream<char,struct std::char_traits<char> > &,unsigned long)" (?fprintRGB@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@K@Z)
+main.obj : error LNK2019: "public: __thiscall Prism::Prism(int,int,int,int,double,int,unsigned long,unsigned long,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Prism@@QAE@HHHHNHKKHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\6\21812158_김주환_Lab6\Debug\21812158_김주환_Lab6.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.

@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\main.cpp(16,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\T_Array.h(44,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\T_Array.h(40): message : 클래스 템플릿 멤버 함수 'T_Array<Student,std::string>::T_Array(int,std::string)'을(를) 컴파일하는 중입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\main.cpp(31): message : 컴파일되는 함수 템플릿 인스턴스화 'T_Array<Student,std::string>::T_Array(int,std::string)'에 대한 참조를 확인하세요.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\main.cpp(31): message : 컴파일되는 클래스 템플릿 인스턴스화 'T_Array<Student,std::string>'에 대한 참조를 확인하세요.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\T_Array.h(217,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\T_Array.h(217,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\T_Array.h(217,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\T_Array.h(213): message : 클래스 템플릿 멤버 함수 'void T_Array<Student,Date>::merge_sort(std::string,SortingOrder)'을(를) 컴파일하는 중입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\main.cpp(51): message : 컴파일되는 함수 템플릿 인스턴스화 'void T_Array<Student,Date>::merge_sort(std::string,SortingOrder)'에 대한 참조를 확인하세요.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\T_Array.h(218,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\T_Array.h(220,2): error C2672: '_merge_sort': 일치하는 오버로드된 함수가 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\T_Array.h(220,2): error C2783: 'void _merge_sort(T *,std::string,SortingOrder,T *,int,int)': 'K'의 템플릿 인수를 추론할 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2\Exam2D_21812158_김주환\Exam2D_21812158_김주환\T_Array.h(144): message : '_merge_sort' 선언을 참조하십시오.

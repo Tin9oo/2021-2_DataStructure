@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep4\Exam2_prep4\main.cpp(18,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep4\Exam2_prep4\TA_Entry.h(47,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep4\Exam2_prep4\TA_Entry.h(43): message : 클래스 템플릿 멤버 함수 'TA_Entry<int,Student *>::TA_Entry(int,std::string)'을(를) 컴파일하는 중입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep4\Exam2_prep4\main.cpp(32): message : 컴파일되는 함수 템플릿 인스턴스화 'TA_Entry<int,Student *>::TA_Entry(int,std::string)'에 대한 참조를 확인하세요.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep4\Exam2_prep4\main.cpp(32): message : 컴파일되는 클래스 템플릿 인스턴스화 'TA_Entry<int,Student *>'에 대한 참조를 확인하세요.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep4\Exam2_prep4\TA_Entry.h(266,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep4\Exam2_prep4\TA_Entry.h(266,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep4\Exam2_prep4\TA_Entry.h(266,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep4\Exam2_prep4\TA_Entry.h(262): message : 클래스 템플릿 멤버 함수 'void TA_Entry<double,Student *>::merge_sort(SortingDirection)'을(를) 컴파일하는 중입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep4\Exam2_prep4\main.cpp(70): message : 컴파일되는 함수 템플릿 인스턴스화 'void TA_Entry<double,Student *>::merge_sort(SortingDirection)'에 대한 참조를 확인하세요.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep4\Exam2_prep4\TA_Entry.h(267,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  Exam2_prep4.vcxproj -> D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam2_prep\Exam2_prep4\Debug\Exam2_prep4.exe

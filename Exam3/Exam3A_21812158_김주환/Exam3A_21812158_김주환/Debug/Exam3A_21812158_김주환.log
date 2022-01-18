@@ -1,0 +1,95 @@
+﻿  main.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\T_Array.h(26,15): error C2760: 구문 오류: ')'을(는) 예기치 않은 토큰입니다. 필요한 토큰은 '식'입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(39,9): error C3861: 't_array': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(41,3): error C2065: 'num_elements': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(41,3): error C3861: 'num_elements': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(42,16): error C3861: 'capacity': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(43,20): error C3861: 'capacity': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(57,2): error C3861: 't_array': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(58,8): error C3861: 't_array': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(60,14): error C3861: 'capacity': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(61,17): error C3861: 'capacity': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(62,2): error C2065: 'num_elements': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(62,2): error C3861: 'num_elements': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(74,10): error C2760: 구문 오류: '식별자'을(는) 예기치 않은 토큰입니다. 필요한 토큰은 ';'입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(24,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(25,15): error C2065: 'Event': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(25,20): error C2977: 'TA_CirQ': 템플릿 인수가 너무 많습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(7): message : 'TA_CirQ' 선언을 참조하십시오.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(25,22): error C2977: 'TA_CirQ': 템플릿 인수가 너무 많습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(7): message : 'TA_CirQ' 선언을 참조하십시오.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(25,74): error C2514: 'TA_CirQ': 클래스 템플릿을 생성할 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(7): message : 'TA_CirQ' 선언을 참조하십시오.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(26,2): error C2065: 'Event': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(26,9): error C2065: 'pEvent': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(26,19): error C2065: 'pEv_min_elasped_time': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(26,43): error C2065: 'pEv_max_elapsed_time': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(29,2): error C2065: 'ThreadParam_Event': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(29,20): error C2146: 구문 오류: ';'이(가) 'thrdParam_EventGen' 식별자 앞에 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(29,20): error C2065: 'thrdParam_EventGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(29,40): error C2065: 'thrdParam_EventHndlr': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(43,10): error C2039: 'numEventProcessed': 'ThreadStatusMonitor'의 멤버가 아닙니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\Multi_Thread.h(20): message : 'ThreadStatusMonitor' 선언을 참조하십시오.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(44,2): error C2065: 'thrdParam_EventHndlr': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(45,2): error C2065: 'thrdParam_EventHndlr': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(46,2): error C2065: 'thrdParam_EventHndlr': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(47,2): error C2065: 'thrdParam_EventHndlr': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(48,2): error C2065: 'thrdParam_EventHndlr': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(49,2): error C2065: 'thrdParam_EventHndlr': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(49,34): error C2065: 'MAX_ROUND': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(50,2): error C2065: 'thrdParam_EventHndlr': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(50,33): error C2065: 'QP_freq': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(51,2): error C2065: 'thrdParam_EventHndlr': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(52,23): error C2065: 'Thread_DataProc': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(52,41): error C2065: 'thrdParam_procData': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(55,10): error C2039: 'numEventGenerated': 'ThreadStatusMonitor'의 멤버가 아닙니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\Multi_Thread.h(20): message : 'ThreadStatusMonitor' 선언을 참조하십시오.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(56,2): error C2065: 'thrdParam_EventGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(57,2): error C2065: 'thrdParam_EventGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(58,2): error C2065: 'thrdParam_EventGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(59,2): error C2065: 'thrdParam_EventGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(60,2): error C2065: 'thrdParam_EventGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(61,2): error C2065: 'thrdParam_EventGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(61,38): error C2065: 'NUM_EVENTS_PER_GEN': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(62,2): error C2065: 'thrdParam_EventGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(62,32): error C2065: 'MAX_ROUND': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(63,2): error C2065: 'thrdParam_EventGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(63,31): error C2065: 'QP_freq': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(64,2): error C2065: 'thrdParam_EventGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(65,20): error C2065: 'EventGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(65,31): error C2065: 'thrdParam_EventGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(66,22): error C2065: 'Thread_DataGen': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(66,39): error C2065: 'thrdParam_genData': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(68,2): error C2065: 'fout': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(71,3): error C2065: 'mtx_main': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(74,3): error C2065: 'mtx_main': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\main.cpp(77,4): error C2065: 'thrd_flag': 선언되지 않은 식별자입니다.
+  Thread_DataGen.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\T_Array.h(26,15): error C2760: 구문 오류: ')'을(는) 예기치 않은 토큰입니다. 필요한 토큰은 '식'입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(39,9): error C3861: 't_array': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(41,3): error C2065: 'num_elements': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(41,3): error C3861: 'num_elements': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(42,16): error C3861: 'capacity': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(43,20): error C3861: 'capacity': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(57,2): error C3861: 't_array': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(58,8): error C3861: 't_array': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(60,14): error C3861: 'capacity': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(61,17): error C3861: 'capacity': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(62,2): error C2065: 'num_elements': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(62,2): error C3861: 'num_elements': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(74,10): error C2760: 구문 오류: '식별자'을(는) 예기치 않은 토큰입니다. 필요한 토큰은 ';'입니다.
+  Thread_DataProc.cpp
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\T_Array.h(26,15): error C2760: 구문 오류: ')'을(는) 예기치 않은 토큰입니다. 필요한 토큰은 '식'입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(39,9): error C3861: 't_array': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(41,3): error C2065: 'num_elements': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(41,3): error C3861: 'num_elements': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(42,16): error C3861: 'capacity': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(43,20): error C3861: 'capacity': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(57,2): error C3861: 't_array': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(58,8): error C3861: 't_array': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(60,14): error C3861: 'capacity': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(61,17): error C3861: 'capacity': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(62,2): error C2065: 'num_elements': 선언되지 않은 식별자입니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(62,2): error C3861: 'num_elements': 식별자를 찾을 수 없습니다.
+D:\OneDrive - 영남대학교\대학교\2021-2\객체지향프로그래밍과자료구조\Exam3\Exam3A_21812158_김주환\Exam3A_21812158_김주환\TA_CirQ.h(74,10): error C2760: 구문 오류: '식별자'을(는) 예기치 않은 토큰입니다. 필요한 토큰은 ';'입니다.
+  코드를 생성하고 있습니다...
